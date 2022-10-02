@@ -9,8 +9,8 @@
 #include "Header.h"
 
 //SSID and Password of your WiFi router
-const char* ssid = "MiFibra-062E";
-const char* password = "6Ryt4xNi";
+const char* ssid = "WIFI_SSID";
+const char* password = "PASSWORD";
 
 ESP8266WebServer server(80);
 
